@@ -1,4 +1,6 @@
-# Um desafio inicial de projeto de Git/GitHub da DIO.
+# :smile: Um desafio inicial de projeto de Git/GitHub da DIO.
 
-### LINKS ÚTEIS 
-[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+### :link: LINKS ÚTEIS 
+:mag: [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+:mag: [Markdown Emoji](https://gist.github.com/rxaviers/7360908)
